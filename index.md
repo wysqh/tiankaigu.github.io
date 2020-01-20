@@ -10,5 +10,5 @@ Major: School of Software
 
 Email: gtk18@mails.tsinghua.edu.cn
 
-Research Interest: Social networks, image captioning. 
+Research Interest: social networks, image captioning. 
 
