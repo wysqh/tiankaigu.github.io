@@ -1,6 +1,8 @@
 ## Personal Information
 
-Name： Tiankai Gu (顾天凯) <img src="./gtk.png/" style="float: right"/>
+<img src="./gtk.png/"/>
+
+Name： Tiankai Gu (顾天凯) 
 
 School: Tsinghua University
 
