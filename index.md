@@ -1,6 +1,6 @@
 ## Personal Information
 
-<img src="https://github.com/wysqh/tiankaigu.github.io/blob/master/gtk.png"/>
+<img src="https://github.com/wysqh/tiankaigu.github.io/raw/master/gtk.png"/>
 
 Name： Tiankai Gu (顾天凯) 
 
